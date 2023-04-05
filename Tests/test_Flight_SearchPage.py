@@ -13,4 +13,3 @@ class Test_flight_search(BaseTest):
         sleep(2)
         fpage.do_check()
         sleep(2)
-        
